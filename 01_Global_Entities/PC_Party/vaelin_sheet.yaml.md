@@ -10,7 +10,9 @@ last_updated: "2026-04-16T14:37:58-05:00"
 ```yaml
 character_details:
   level: 1
-  xp: { total: 0, required_for_next: 300 } # Accounts for the 4x tax
+  xp: 
+    gross_earned_xp: 0  # The raw, untaxed XP awarded by the DM
+    net_taxed_xp: 0     # gross_earned_xp divided by 4. Compare this to the class progression table.
 
 core_stats:
   ac: 14 # Example: Leather + Dex
