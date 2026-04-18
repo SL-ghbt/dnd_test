@@ -31,5 +31,5 @@ key_npc_relationships:
     notes: "Currently annoying Vaelin by leaving shiny buttons in his boots."
   - name: Finch
     disposition: "Ally"
-    notes:
+    notes: "Leader of the Ratlings, views Vaelin as an older brother"
 ```
