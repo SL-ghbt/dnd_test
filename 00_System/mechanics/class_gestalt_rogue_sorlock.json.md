@@ -19,7 +19,7 @@ last_updated: "2026-04-16T14:38:20-05:00"
     "hit_dice": "1d8",
     "hp_at_level_1": "8 + Con modifier",
     "hp_higher_levels": "8 + Con modifier",
-    "saving_throws": ["Dex", "Con", "Int", "Wis", "Cha"],
+    "saving_throws": ["Dex", "Cha"],
     "skill_proficiencies_granted": 4,
     "armor_training": ["Light armor"],
     "weapons": ["Simple Weapons", "Martial weapons (Finesse or Light)"],
