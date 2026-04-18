@@ -8,7 +8,6 @@ last_updated: "2026-04-17T19:03:11-05:00"
 current_status:
   active_module: "Duskhaven Origins"
   active_region: "[[01_Duskhaven]]"
-  current_level: 1
 
 global_threads_active:
   - "[[The Society]]"
